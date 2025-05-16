@@ -1,0 +1,147 @@
+
+body {
+background-color: #fff;
+font-family: Arial, Helvetica, Sans-Serif;
+}
+
+#mypage {
+border: 1px solid #000;
+width: 1500px;
+/* width: 100%; */
+}
+
+#banner {
+height: 90px;
+border: 1px solid #faf606;
+}
+
+.hm {
+height: 45px;
+background-color: #e8d8c8;
+border-left: 10px solid #ededed;
+border: 10px;
+}
+
+#topnav {
+height: 45px;
+border: 1px solid #eaf208;
+}
+
+
+
+/*Improving it starts here*/
+#topnav {
+background-color: #0eabf4;
+}
+
+.gi-2x{font-size: 28px; padding: 3px;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+
+#banner img{
+border-radius: 50%;
+/*height: 100px; width: 100px; background-color: #ff5733; margin: auto;*/
+}
+
+/*Improving it ends here*/
+
+
+
+#topnav ul li{
+text-decoration: none;
+display: inline;
+}
+
+
+#topnav a:link {
+text-decoration: none;
+color: #000;
+}
+
+#topnav a:visited {
+color: rgb(240, 240, 9);
+}
+
+#topnav a:hover {
+background-color: #08f730;
+}
+
+#contentarea {
+/* height: 1000px; */
+height: auto;
+}
+
+.company_profile {
+    width: 100%;
+    height: 250px;
+    background-color: #c8def2;
+    border-radius: 8px;
+    margin: 0px;
+}
+
+.company_profile h1
+
+.company_profile .pp2 {
+    display: inline;
+    margin-right: 150px;
+}
+
+.current_trainees {
+    width: 100%;
+    height: 450px;
+    background-color: burlywood;
+    margin-top: 0px;
+    margin-bottom: 12px; 
+}
+
+.job_spec {
+    width: 100%;
+    height: 450px;
+    background-color: lime;
+}
+
+.application_form {
+    width: 100%;
+    height: 450px;
+    background-color: yellow;
+}
+
+.our_courses {
+    width: 100%;
+    height: 450px;
+    background: orange;
+}
+
+.our_courses dd dl{
+    display: inline;
+    margin-right: 150px;
+}
+
+.our_courses p {
+    margin-bottom: 35px;
+    padding-top: 35px;
+    margin-left: 35px;
+/* margin-left: 35px, 0px, 35px, 35px; */
+    font-size: 400%;
+}
+.current_trainees ul li{
+    display: inline;
+    margin-right: 85px;
+}
+
+.current_trainees img {
+    border-radius: 50%;
+}
+
+
+.current_trainees h1 {
+    margin-bottom: 35px;
+    padding-top: 35px;
+    margin-left: 35px;
+}
+
+.company_profile h1 {
+    color: #edbcca;
+}
+
