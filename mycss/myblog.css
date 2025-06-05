@@ -455,3 +455,24 @@ text-decoration: none;
 display: inline;
 } */
 
+#homepage_contentarea h1 {
+color: #e44783;
+margin-left: 200px;
+margin-top: 40px;
+
+}
+
+#homepage_contentarea {
+width: 650px;
+margin-left: 350px;
+}
+
+#homepage_contentarea .posttitle {
+color: #3f3fe6;
+font-size: 14px;
+text-decoration: underline;
+}
+
+#homepage_contentarea .readmore {
+color: #edbcca; 
+}
